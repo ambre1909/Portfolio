@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/ambre1909/Portfolio.git",
+  "homepage": "https://ambre1909.github.io/Portfolio",
 
   "scripts": {
     "dev": "vite",
